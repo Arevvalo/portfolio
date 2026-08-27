@@ -11,8 +11,7 @@ function App() {
         <p className="mt-4 text-slate-300">
           Configuración inicial lista para construir.
         </p>
-        <p>Prueba para URL de Preview</p>
-        <p>Prueba 2 para URL de Preview</p>
+      
 
       </section>
     </main>
