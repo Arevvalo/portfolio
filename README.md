@@ -18,3 +18,6 @@ npm run dev
 - `npm run preview`: sirve localmente la build generada.
 
 Requiere Node.js 20.19+ o 22.12+.
+
+
+Modificación temporal de git pull 
