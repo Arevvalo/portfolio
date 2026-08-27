@@ -20,4 +20,3 @@ npm run dev
 Requiere Node.js 20.19+ o 22.12+.
 
 
-Modificación temporal de git pull 
