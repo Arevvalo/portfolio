@@ -12,6 +12,8 @@ function App() {
           Configuración inicial lista para construir.
         </p>
         <p>Prueba para URL de Preview</p>
+        <p>Prueba 2 para URL de Preview</p>
+
       </section>
     </main>
   )
