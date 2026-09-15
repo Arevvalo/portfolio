@@ -2,6 +2,16 @@
 
 Base inicial del portfolio frontend con React, JavaScript, Vite y Tailwind CSS.
 
+## Estructura
+
+- `src/components`: elementos compartidos, como cabecera y pie.
+- `src/sections`: bloques principales de la página.
+- `src/data/site.js`: datos personales, navegación y proyectos.
+- `src/assets`: imágenes y recursos que se importan desde React.
+- `public`: archivos estáticos que se sirven sin procesar.
+
+Edita primero `src/data/site.js` y después desarrolla cada sección de `src/sections`.
+
 ## Desarrollo
 
 Instala las dependencias y arranca el servidor local:
